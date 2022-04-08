@@ -1,4 +1,4 @@
-class `1_Greeter` {
+class `1_greeter` {
     var text: String =""
     fun greet() {
         println("Hello Perkenalkan Nama Saya!")
